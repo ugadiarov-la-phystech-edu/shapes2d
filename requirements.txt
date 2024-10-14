@@ -1,0 +1,3 @@
+gymnasium
+matplotlib
+scikit-image==0.21.0
